@@ -1,0 +1,29 @@
+.form{
+    margin-left: 64px;
+    margin-right: 64px;
+  margin-top: 57px;
+}
+.heading{
+    
+
+text-align: left;
+font: normal normal 900 24px Roboto,sans-serif;
+color: #000000;
+}
+input{
+    border: none;
+  border-bottom: 2px solid #EAEAEA;
+  width: 100%;
+  margin-top: 50px;
+}
+.add{
+    width: 81px;
+height: 32px;
+background-color: #000000 ;
+border-radius: 20px;
+text-align: left;
+font: normal normal medium 14px/19px Roboto,sans-serif;
+color: #FFFFFF;
+margin-bottom: 50px;
+margin-top: 40px;
+}
